@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Bishal<br><br>- 🔭 I’m working as Flutter Developer</p>
+<p align="left">I'm Bishal Shrestha<br><br>- 🔭 I’m working as Flutter Developer<br>- 💯 I am interested in Mobile App Development</p>
 
 ###
 
