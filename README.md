@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/RGeqYyfLc1ipfU2fgS/giphy-downsized-large.gif" width="100"/>
+</div>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Bishals554)](https://git.io/streak-stats)
 <!--
 **Bishals554/Bishals554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
