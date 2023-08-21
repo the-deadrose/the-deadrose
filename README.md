@@ -1,3 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/RGeqYyfLc1ipfU2fgS/giphy-downsized-large.gif" width="100"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
