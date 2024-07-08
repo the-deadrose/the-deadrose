@@ -51,8 +51,12 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
-![bishals554's Stats](https://github-readme-stats.vercel.app/api?username=bishals554&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
-![bishals554's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bishals554&theme=vue-dark&hide_border=true)
-![bishals554's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bishals554&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<br/>
+<p align="left">
+  <a href="http://127.0.0.1/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bishals554&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true">	  
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bishals554&theme=gruvbox&hide_border=true">		  
+  </a>
+</p>
+<br>
 
