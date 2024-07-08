@@ -51,12 +51,7 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-<br/>
-<p align="left">
-  <a href="http://127.0.0.1/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bishals554&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true">	  
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bishals554&theme=gruvbox&hide_border=true">		  
-  </a>
-</p>
-<br>
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/bishals554?cardType=level&theme=dracula&preferLogin=false&Border=00000000)](https://git.io/awesome-stats-card)
+![bishals's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bishals554&theme=dracula&hide_border=true)
+![bishals554's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bishals554&theme=dracula&show_icons=true&hide_border=true&layout=compact)
