@@ -52,6 +52,6 @@
 
 ###
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/bishals554?cardType=level&theme=dracula&preferLogin=false&Border=00000000)](https://git.io/awesome-stats-card)
-![bishals's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bishals554&theme=dracula&hide_border=true)
-![bishals554's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bishals554&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Bishals554?cardType=level&theme=dracula&preferLogin=false&Border=00000000)](https://git.io/awesome-stats-card)
+![bishals's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bishals554&theme=dracula&hide_border=true)
+![bishals554's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishals554&theme=dracula&show_icons=true&hide_border=true&layout=compact)
