@@ -24,7 +24,8 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bishals554&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Bishals554&theme=radical&no-frame=false&no-bg=false&margin-w=4)\
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -48,10 +49,12 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
 
-###
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+ 
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bishals554\&theme=dark\&show_icons=true\&show=contribs,reviews,prs_merged,prs_merged_percentage\&hide=issues)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Bishals554?cardType=level&theme=dracula&preferLogin=false&Border=00000000)](https://git.io/awesome-stats-card)
-![bishals's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bishals554&theme=dracula&hide_border=true)
-![bishals554's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishals554&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Bishals554&theme=dark)](https://git.io/streak-stats)
+
+</div>
