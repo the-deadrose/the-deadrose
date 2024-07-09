@@ -19,12 +19,12 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Bishals554&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=the-deadrose&"  />
 </div>
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bishals554&theme=radical&no-frame=false&no-bg=false&margin-w=4)\
+![](https://github-profile-trophy.vercel.app/?username=the-deadrose&theme=radical&no-frame=false&no-bg=false&margin-w=4)\
 
 
 
@@ -53,8 +53,8 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bishals554\&theme=dark\&show_icons=true\&show=contribs,reviews,prs_merged,prs_merged_percentage\&hide=issues)
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-deadrose\&theme=dark\&show_icons=true\&show=contribs,reviews,prs_merged,prs_merged_percentage\&hide=issues)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Bishals554&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=the-deadrose&theme=dark)](https://git.io/streak-stats)
 
 </div>
