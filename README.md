@@ -269,12 +269,9 @@ Building and maintaining the seller and consumer sides of a multi-vendor e-comme
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=the-deadrose&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api?username=the-deadrose&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-deadrose&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-deadrose&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" width="49%" />
-
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=the-deadrose&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" width="49%" />
 </div>
 
 ---
