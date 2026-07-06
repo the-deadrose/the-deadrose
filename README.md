@@ -282,9 +282,7 @@ Building and maintaining the seller and consumer sides of a multi-vendor e-comme
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=the-deadrose&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" />
-
+<img src="https://github-trophies.vercel.app/?username=the-deadrose&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" />
 </div>
 
 ---
